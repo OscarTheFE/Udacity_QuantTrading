@@ -24,7 +24,7 @@ This repo contains the projects I did for Udacity AI for Trading nanodegree.
 - Text processing: Learn text acquisition (plane text, tabular data, and online resources), simple data cleaning with python regex and BeautifulSoup, using nltk (natural language toolkit) for tokenization, stemming, and lemmatization.
 - Financial Statement: Learn how to apply Regexes to 10Ks, how BeautifulSoup can ease the parse of (perfectly formatted) html and xml downloaded using request library.
 - Basic NLP Analysis: Learn quantitatively measure readability of documents using readability indices, how to convert document into vectors using bag of word and TF-IDF weighting, and metrics to compare similarities between documents.
-
+- [Notebooks](https://github.com/OscarTheFE/Udacity_QuantTrading/tree/main/NLP)
 ## 6. Sentiment Analysis with Neural Networks. [Project](https://github.com/OscarTheFE/Udacity_QuantTrading/tree/main/Project6_SentimentAnalysis/home)
 - Neural Network Basics: Learn maximum likelihood, cross entropy, logistic regression, gradient decent, regularization, and practical heuristics for training neural networks.
 - Deep Learning with PyTorch.
