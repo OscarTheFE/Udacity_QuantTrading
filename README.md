@@ -37,7 +37,7 @@ This repo contains the projects I did for Udacity AI for Trading nanodegree.
 - Decision Tree: Learn how to branching decision tree using entropy and information gain. Implement decision tree using sklearn for Titanic Survival Exploration and visualize the decision tree using graphviz.
 - Model Testing and Evaluation: Learn Type 1 and Type 2 errors, Precision vs. Recall, Cross validation for time series, and using learning curve to determine underfitting and overfitting.
 - Random Forest: Learn the ensemble random forest method and implement it in sklearn.
-- Feature Engineering: Certain alphas perform better or worse depending on market conditions. Feature engineering creates additional inputs to give models more contexts about the current market condition so that the model can adjust its prediction accordingly.
+- [Feature Engineering](https://github.com/OscarTheFE/Udacity_QuantTrading/tree/main/FeatureEngineering): Certain alphas perform better or worse depending on market conditions. Feature engineering creates additional inputs to give models more contexts about the current market condition so that the model can adjust its prediction accordingly.
 - Overlapping Labels: Mitigate the problem when features are dependent on each other (non-IID).
 - Feature Importance: Company would prefer simple interpretable models to black-box complex models. interpretability opens the door for complex models to be readily acceptable. One way to interpret a model is to measure how much each feature contributed to the model prediction called feature importance. Learn how sklearn computes features importance for tree-based method. Learn how to calculate shap for feature importance of a single sample.
 
