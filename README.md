@@ -1,7 +1,7 @@
 # Udacity_QuantTrading
 This repo contains the projects I did for Udacity AI for Trading nanodegree.
 # Summary of each project
-## 1. Trading with Momentum. Project
+## 1. Trading with Momentum. [Project] (https://github.com/OscarTheFE/Udacity_QuantTrading/tree/main/Project1_TradingWithMomentum/home)
 - Learn basics of stock markets. Learn how to calculate stock returns and design momentum trading strategy.
 - 
 ## 2. Breakout Strategy. Project
