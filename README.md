@@ -3,8 +3,7 @@ This repo contains the projects I did for Udacity AI for Trading nanodegree.
 # Summary of each project
 ## 1. Trading with Momentum. Project
 - Learn basics of stock markets. Learn how to calculate stock returns and design momentum trading strategy.
-
-
+- 
 ## 2. Breakout Strategy. Project
 - Learn the importance of outliers and how to detect them. Learn about methods designed to handle outliers.
 - Learn about regression, and related statistical tools that pre-process data before regression analysis. Learn commonly-used time series models.
@@ -33,6 +32,7 @@ This repo contains the projects I did for Udacity AI for Trading nanodegree.
   - Learn to use RNN to predict simple Time Series and train Character-Level LSTM to generate new text based on the text from the book.
   - Learn Word2Vec algorithm using the Skip-gram Architecture and with Negative Sampling.
   - Sentiment Analysis RNN: Implement a recurrent neural network that can predict if the text of a movie review is positive or negative.
+
 ## 7. Combining Signals for Enhanced Alpha. Project
 - Decision Tree: Learn how to branching decision tree using entropy and information gain. Implement decision tree using sklearn for Titanic Survival Exploration and visualize the decision tree using graphviz.
 - Model Testing and Evaluation: Learn Type 1 and Type 2 errors, Precision vs. Recall, Cross validation for time series, and using learning curve to determine underfitting and overfitting.
